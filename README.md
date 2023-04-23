@@ -28,4 +28,12 @@ For instance, a comparison can be made between viewership statistics for videos 
 [Most Subscribed 1000 Youtube Channels](https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube-channels)
 
 [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv)
+
+The data sets were collected by MITCHELL J and MRITYUNJAY PATHAK on kaggle. 
+These data sets include the trending videos in USA, Great Britain, Germany, Canada, and France, 2014; and the top 1000 subscribed channels on Youtube. 
+Our dataset came from two independent projects on kaggle, containing multiple csv files.
+The one about subscriber contains 1000 rows and 7 columns including  "Rank" "Youtube Channel" "Subscribers" "Video Views" "Video.Count" "Category" and the time they"Started". The one about trending videos has csv files from different regions. 
+Take the csv file about the california for example: it has 40881 rows and 16 columns, includes "video_id" "trending_date" "title" "channel_title" "category_id" "publish_time" "tags" "views" "likes" "dislikes" "comment_count" "thumbnail_link" "comments_disabled" "ratings_disabled" "video_error_or_removed" and "description".
+By examing the data above, we could have a clear understanding about what kind of video or creator is welcoming on Youtube. 
+
 ## Background Research/Inspiration
