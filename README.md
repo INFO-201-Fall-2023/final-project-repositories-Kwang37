@@ -1,5 +1,4 @@
-# final-project-repositories-Kwang37
-final-project-repositories-Kwang37 created by GitHub Classroom
+
 
 # Public Interest based on viewers' interest in video content on the Internet
 ## Story Pitch
