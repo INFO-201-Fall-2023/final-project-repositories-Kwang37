@@ -4,15 +4,9 @@ final-project-repositories-Kwang37 created by GitHub Classroom
 # Public Interest based on viewers' interest in video content on the Internet
 ## Story Pitch
 
-	In contemporary times, video has emerged as a pivotal communication medium, 
-	enabling individuals and organizations to create and disseminate content 
-	across multiple internet platforms. Given the widespread use of video in 
-	various domains such as entertainment, business, education, social media,
-	and medical science, it is crucial to comprehend the kind of video content 
-	that viewers are interested in watching. The proposed study aims to explore
-	the relationship between public interest and viewers' interest in video content
-	on the Internet. The investigation will focus on identifying the types of video
-	content that viewers are interested in and how they align with the public interest. The study's significance lies in highlighting the role of video content in shaping public opinion and discourse, emphasizing the need to prioritize the public interest while creating and promoting video content. The research will utilize both content creator and viewer perspectives to analyze the kind of video content that is relevant to the public interest. Ultimately, the study aims to promote a better understanding of the importance of creating and promoting video content that serves the public interest, given the profound impact of video content on society.
+	In contemporary times, video has emerged as a pivotal communication medium, enabling individuals and organizations to create and disseminate content across multiple internet platforms. Given the widespread use of video in various domains such as entertainment, business, education, social media, and medical science, it is crucial to comprehend the kind of video content that viewers are interested in watching. The proposed study aims to explore the relationship between public interest and viewers' interest in video content on the Internet. 
+	
+	The investigation will focus on identifying the types of video content that viewers are interested in and how they align with the public interest. The study's significance lies in highlighting the role of video content in shaping public opinion and discourse, emphasizing the need to prioritize the public interest while creating and promoting video content. The research will utilize both content creator and viewer perspectives to analyze the kind of video content that is relevant to the public interest. Ultimately, the study aims to promote a better understanding of the importance of creating and promoting video content that serves the public interest, given the profound impact of video content on society.
 
 	The proposed study investigating the link between public interest and viewers' interest in Internet video content is noteworthy for several reasons. First and foremost, the use of video content has become a vital element of contemporary communication, enabling individuals and organizations to effectively convey messages. The widespread use of video content in various domains, such as entertainment, education, business, social media, and medical science, highlights its potential to shape public opinion and discourse. Furthermore, understanding the types of video content that attract viewers and their alignment with public interest is crucial for promoting informed decision-making and responsible citizenship.
 	
