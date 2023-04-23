@@ -37,3 +37,12 @@ Take the csv file about the california for example: it has 40881 rows and 16 col
 By examing the data above, we could have a clear understanding about what kind of video or creator is welcoming on Youtube. 
 
 ## Background Research/Inspiration
+
+The insperation of the project came from the Youtuber experience of one of our group member Ziyi Li. 
+Since the end of 2021, he started to work as a video content creator on Bilibili and Youtube, mainly facing towards the mandarin speaker audience in east and southeast Asia. 
+Most of his video are about knowleges behind the popular video games (For example: what is the difference of iron sight between game and real world?). 
+At the moment, he has 54 thousands subsribers on Bilibili and Youtube, each video has a view time of around 100K to 200K. 
+
+https://space.bilibili.com/11037021
+
+https://www.youtube.com/channel/UCqstTrpgvYJ1Tk2Ji-zn01Q
