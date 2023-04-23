@@ -43,6 +43,7 @@ Since the end of 2021, he started to work as a video content creator on Bilibili
 Most of his video are about knowleges behind the popular video games (For example: what is the difference of iron sight between game and real world?). 
 At the moment, he has 54 thousands subsribers on Bilibili and Youtube, each video has a view time of around 100K to 200K. 
 
-https://space.bilibili.com/11037021
+[Ziyi Li's Bilibili chanel](https://space.bilibili.com/11037021)
 
-https://www.youtube.com/channel/UCqstTrpgvYJ1Tk2Ji-zn01Q
+
+[Ziyi Li's Youtube chanel](https://www.youtube.com/channel/UCqstTrpgvYJ1Tk2Ji-zn01Q)
