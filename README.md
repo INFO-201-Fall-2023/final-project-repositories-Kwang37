@@ -1,16 +1,16 @@
 # Public Interest based on viewers' interest in video content on the Internet
 ## Story Pitch
 
-In contemporary times, video has emerged as a pivotal communication medium, enabling individuals and organizations to create and disseminate content across multiple internet platforms. 
-Given the widespread use of video in various domains such as entertainment, business, education, social media, and medical science, it is crucial to comprehendthe kind of video content that viewers are interested in watching. 
-The proposed study aims to explore the relationship between public interest and viewers' interest in video content on the Internet.
-The investigation will focus on identifying the types of video content that viewers are interested in and how they align with the public interest. 
+Nowadays, video has emerged as a pivotal communication medium, allowing individuals and organizations to create and disseminate content across multiple internet platforms. 
+Given the widespread use of video in various domains including entertainment, business, education, social media, and medical science, comprehending the kind of video content that viewers are interested in is important. 
+The study aims to explore the relationship between public audience's interest in video content on the Internet.
+The investigation will focus on identifying the types of video that viewers are interested in and how they align with the public interest. 
 The study's significance lies in highlighting the role of video content in shaping public opinion and discourse, emphasizing the need to prioritize the public interest while creating and promoting video content. 
-The research will utilize both content creator and viewer perspectives to analyze the kind of video content that is relevant to the public interest. Ultimately, the study aims to promote a better understanding of the importance of creating and promoting video content that serves the public interest, given the profound impact of video content on society.
+The research will utilize both content creator and viewer perspectives to analyze the kind of video content that is most relevant to the public interest. The study aims to promote a better understanding of the importance of creating and promoting video content that serves the public interest, given the profound impact of video content on society.
 
 The proposed study investigating the link between public interest and viewers' interest in Internet video content is noteworthy for several reasons. 
-First and foremost, the use of video content has become a vital element of contemporary communication, enabling individuals and organizations to effectively convey messages. 
-The widespread use of video content in various domains, such as entertainment, education, business, social media, and medical science, highlights its potential to shape public opinion and discourse. Furthermore, understanding the types of video content that attract viewers and their alignment with public interest is crucial for promoting informed decision-making and responsible citizenship.
+First, the use of video content has become a vital element of contemporary communication, enabling individuals and organizations to effectively convey messages. 
+The widespread of video as a new media in various domains, such as entertainment, education, business, social media, and medical science, highlights its potential to shape public opinion and discourse. Furthermore, understanding the types of video content that attract viewers and their alignment with public interest is crucial for promoting informed decision-making and responsible citizenship.
 	
 Additionally, the research being proposed places emphasis on the significance of generating and endorsing video content that caters to the welfare of the general public. 
 The aforementioned holds great importance, considering the obligation of content generators and platforms to give precedence to the welfare of the general public in influencing communal outlooks and discussions. 
@@ -41,11 +41,11 @@ By examing the data above, we could have a clear understanding about what kind o
 Since the end of 2021, he started to work as a video content creator on Bilibili and Youtube, mainly facing towards the mandarin speaker audience in east and southeast Asia. 
 - Most of his video are about knowleges behind the popular video games (For example: what is the difference of iron sight between game and real world?). 
 At the moment, he has 54 thousands subsribers on Bilibili and Youtube, each video has a view time of around 100K to 200K. 
-- Siyi Li's backend user data is too limited to investigate public interest, so more diverse video genres and different regional preferences are needed as datasets.
+- Ziyi Li's backend user data is too limited to investigate public interest (games only). So more diverse video genres and different regional preferences are needed as datasets.
 
 [How Video Consumption is Changing in 2023？](https://blog.hubspot.com/marketing/how-video-consumption-is-changing)
-- This article points out that consumers are increasingly relying on marketing videos to learn about a brand.
-video has emerged as a essential communication medium, enabling individuals and organizations to create and disseminate content across multiple internet platforms.
+- This article believe that consumers are relying on videos to learn about a brand today.
+video has became a essential communication media, allowing individuals and organizations to create and disseminate content across multiple platforms.
 - This article indicates that shorter videos are more popular than the longer videos. 
 The length of the video content can also be used as a reference factor in our survey.
 
@@ -55,14 +55,13 @@ But being in full view of the cameras adds an invisible pressure on the behavior
 - The connection between public interest and impartial law enforcement is established through video, but whether this connection is conducive to social progress is a topic of debate.
 
 [10 Most Watched Categories of YouTube Videos](https://mugafi.com/blog/10-most-watched-categories-of-youtube-videos#:~:text=Music%20videos%20are%20always%20the,and%20available%20at%20your%20fingertips.)
-- According to the data from this ranking, "Music", "Tutorial" and "Top List" videos occupy the top three spots, which led us to wonder whether viewers who like music videos would also like "Top List" videos.
+- According to the data from this ranking, videos about "Music", "Tutorial" and "Top List" occupy the top three spots, led us to wonder whether audience who enjoy music videos would also like "Top List" videos.
 - It is well worth studying what kind of public interest this reflects by extracting the common audience of different categories of content. 
-Because it helps a lot to analyze the interest preferences of the public the appropriate content and ads according to different interest categories.
+It helps to analyze the interest preferences of the public the appropriate content and ads according to different categories.
 
 [Analysis of Bilibili public interest](https://b23.tv/n3RdSWM)
-- The blogger in the video used the popular videos of different divisions on the bilibili website as the object of analysis,
-and the amount of plays and big reward amount corresponding to each video as the object of comparison for data analysis, 
-and used the orientation of the horizontal and vertical axes to derive the interests of bilibili users.
-- However, because the amount of data extracted by this analysis is too small and the type of data is too homogeneous,
-the conclusions drawn are not accurate and realistic enough.
+- The creator used the popular videos of different topics on the Bilibili to make a linear analysis,
+including the number of view and the interaction index (number of likes). By taking a look at this chart
+we can find the popular topics in Bilibili
+-  The amount of data is too small and the type of data is homogeneous, the conclusions are not accurate and realistic enough.
 
