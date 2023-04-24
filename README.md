@@ -54,5 +54,8 @@ The length of the video content can also be used as a reference factor in our su
 But being in full view of the cameras adds an invisible pressure on the behavior of judges, parties and juries.
 - The connection between public interest and impartial law enforcement is established through video, but whether this connection is conducive to social progress is a topic of debate.
 
-
+[10 Most Watched Categories of YouTube Videos](https://mugafi.com/blog/10-most-watched-categories-of-youtube-videos#:~:text=Music%20videos%20are%20always%20the,and%20available%20at%20your%20fingertips.)
+- According to the data from this ranking, "Music", "Tutorial" and "Top List" videos occupy the top three spots, which led us to wonder whether viewers who like music videos would also like "Top List" videos.
+- It is well worth studying what kind of public interest this reflects by extracting the common audience of different categories of content. 
+Because it helps a lot to analyze the interest preferences of the public the appropriate content and ads according to different interest categories.
 
