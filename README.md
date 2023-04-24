@@ -1,6 +1,3 @@
-# final-project-repositories-Kwang37
-final-project-repositories-Kwang37 created by GitHub Classroom
-
 # Public Interest based on viewers' interest in video content on the Internet
 ## Story Pitch
 
@@ -29,21 +26,28 @@ For instance, a comparison can be made between viewership statistics for videos 
 
 [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv)
 
-The data sets were collected by MITCHELL J and MRITYUNJAY PATHAK on kaggle. 
-These data sets include the trending videos in USA, Great Britain, Germany, Canada, and France, 2014; and the top 1000 subscribed channels on Youtube. 
-Our dataset came from two independent projects on kaggle, containing multiple csv files.
+The datasets were collected by MITCHELL J and MRITYUNJAY PATHAK on Kaggle. 
+These datasets include the trending videos in USA, Great Britain, Germany, Canada, and France, 2014; and the top 1000 subscribed channels on Youtube. 
+Our dataset came from two independent projects on Kaggle, containing multiple CSV files.
 The one about subscriber contains 1000 rows and 7 columns including  "Rank" "Youtube Channel" "Subscribers" "Video Views" "Video.Count" "Category" and the time they"Started". The one about trending videos has csv files from different regions. 
 Take the csv file about the california for example: it has 40881 rows and 16 columns, includes "video_id" "trending_date" "title" "channel_title" "category_id" "publish_time" "tags" "views" "likes" "dislikes" "comment_count" "thumbnail_link" "comments_disabled" "ratings_disabled" "video_error_or_removed" and "description".
 By examing the data above, we could have a clear understanding about what kind of video or creator is welcoming on Youtube. 
 
 ## Background Research/Inspiration
 
-The insperation of the project came from the Youtuber experience of one of our group member Ziyi Li. 
+[Ziyi Li's Youtube Channel](https://www.youtube.com/channel/UCqstTrpgvYJ1Tk2Ji-zn01Q), 
+[Ziyi Li's Bilibili Channel](https://space.bilibili.com/11037021)
+- The insperation of the project came from the Youtuber experience of one of our group member Ziyi Li. 
 Since the end of 2021, he started to work as a video content creator on Bilibili and Youtube, mainly facing towards the mandarin speaker audience in east and southeast Asia. 
-Most of his video are about knowleges behind the popular video games (For example: what is the difference of iron sight between game and real world?). 
+- Most of his video are about knowleges behind the popular video games (For example: what is the difference of iron sight between game and real world?). 
 At the moment, he has 54 thousands subsribers on Bilibili and Youtube, each video has a view time of around 100K to 200K. 
+- Siyi Li's backend user data is too limited to investigate public interest, so more diverse video genres and different regional preferences are needed as datasets.
 
-[Ziyi Li's Bilibili chanel](https://space.bilibili.com/11037021)
+[How Video Consumption is Changing in 2023](https://blog.hubspot.com/marketing/how-video-consumption-is-changing)
+- This article points out that consumers are increasingly relying on marketing videos to learn about a brand.
+video has emerged as a essential communication medium, enabling individuals and organizations to create and disseminate content across multiple internet platforms.
+- This article indicates that shorter videos are more popular than the longer videos. 
+The length of the video content can also be used as a reference factor in our survey.
 
 
-[Ziyi Li's Youtube chanel](https://www.youtube.com/channel/UCqstTrpgvYJ1Tk2Ji-zn01Q)
+
