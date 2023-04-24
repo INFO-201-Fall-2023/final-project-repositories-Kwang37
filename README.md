@@ -43,7 +43,7 @@ Since the end of 2021, he started to work as a video content creator on Bilibili
 At the moment, he has 54 thousands subsribers on Bilibili and Youtube, each video has a view time of around 100K to 200K. 
 - Siyi Li's backend user data is too limited to investigate public interest, so more diverse video genres and different regional preferences are needed as datasets.
 
-[How Video Consumption is Changing in 2023](https://blog.hubspot.com/marketing/how-video-consumption-is-changing)
+[How Video Consumption is Changing in 2023？](https://blog.hubspot.com/marketing/how-video-consumption-is-changing)
 - This article points out that consumers are increasingly relying on marketing videos to learn about a brand.
 video has emerged as a essential communication medium, enabling individuals and organizations to create and disseminate content across multiple internet platforms.
 - This article indicates that shorter videos are more popular than the longer videos. 
