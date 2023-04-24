@@ -22,9 +22,9 @@ The "Most Subscribed 1000 Youtube Channels" and "Trending YouTube Video Statisti
 For instance, a comparison can be made between viewership statistics for videos on a particular topic and public interest in that topic, as measured by the frequency of relevant news articles, academic publications, and social media discussions. By examining the trends in video popularity and their alignment with public interest, it is possible to gain a deeper understanding of the relationship between public interest and viewers' interest in video content on the Internet.
 
 ## Finding Data
-[Most Subscribed 1000 Youtube Channels](https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube-channels)
+- [Most Subscribed 1000 Youtube Channels](https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube-channels)
 
-[Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv)
+- [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv)
 
 The datasets were collected by MITCHELL J and MRITYUNJAY PATHAK on Kaggle. 
 These datasets include the trending videos in USA, Great Britain, Germany, Canada, and France, 2014; and the top 1000 subscribed channels on Youtube. 
