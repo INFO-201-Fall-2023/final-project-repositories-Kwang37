@@ -59,3 +59,10 @@ But being in full view of the cameras adds an invisible pressure on the behavior
 - It is well worth studying what kind of public interest this reflects by extracting the common audience of different categories of content. 
 Because it helps a lot to analyze the interest preferences of the public the appropriate content and ads according to different interest categories.
 
+[Analysis of Bilibili public interest](https://b23.tv/n3RdSWM)
+- The blogger in the video used the popular videos of different divisions on the bilibili website as the object of analysis,
+and the amount of plays and big reward amount corresponding to each video as the object of comparison for data analysis, 
+and used the orientation of the horizontal and vertical axes to derive the interests of bilibili users.
+- However, because the amount of data extracted by this analysis is too small and the type of data is too homogeneous,
+the conclusions drawn are not accurate and realistic enough.
+
