@@ -49,5 +49,10 @@ video has emerged as a essential communication medium, enabling individuals and 
 - This article indicates that shorter videos are more popular than the longer videos. 
 The length of the video content can also be used as a reference factor in our survey.
 
+[How does courtroom broading influences public confidence in justice?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403225/)
+- Judicial transparency has improved globally when cameras are installed in courtrooms and judges' proceedings are recorded and uploaded to the Internet.
+But being in full view of the cameras adds an invisible pressure on the behavior of judges, parties and juries.
+- The connection between public interest and impartial law enforcement is established through video, but whether this connection is conducive to social progress is a topic of debate.
+
 
 
